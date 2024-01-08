@@ -10,9 +10,11 @@
 
 <div align="center">
   <img alt="Vuejs Icon" src="https://img.icons8.com/color/72/null/vue-js.png"/>
+  <img alt="Typescript Icon" src="https://img.icons8.com/color/72/typescript.png"/>
+  <img alt="React Icon" src="https://img.icons8.com/plasticine/72/react.png"/>
   <img alt="Html Icon" src="https://img.icons8.com/color/64/000000/html-5.png"/>
   <img alt="CSS Icon" src="https://img.icons8.com/color/64/000000/css3.png"/>
-  <img alt="CSS Icon" src="https://img.icons8.com/color/64/000000/javascript.png"/>
+  <img alt="Javascript Icon" src="https://img.icons8.com/color/64/000000/javascript.png"/>
   <img alt="Docker Icon" src="https://img.icons8.com/color/64/000000/docker.png"/>
 </div>
 
@@ -35,9 +37,8 @@
 <h3 align="center">Actually learning</h3>
 
 <div align="center">
-  <img alt="React Icon" src="https://img.icons8.com/color/72/null/react-native.png"/>
   <img alt="Nodejs Icon" src="https://img.icons8.com/color/72/000000/nodejs.png"/>
-  <img alt="Nodejs Icon" src="https://img.icons8.com/color/72/000000/golang.png"/>
+  <img alt="Golang Icon" src="https://img.icons8.com/color/72/000000/golang.png"/>
 </div>
 
 <h3 align="center">Find me around the web</h3>
