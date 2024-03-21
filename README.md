@@ -36,7 +36,7 @@
 
 <div align="center">
   <a href="https://dylantavares.fr">
-    <img alt="Website icon" src="https://img.icons8.com/color/64/000000/internet--v2.png"/>
+    <img width="72px" height="72px" alt="Website icon" src="https://img.icons8.com/plasticine/300/domain.png"/>
   </a>
   <a href="https://gitlab.com/TavaresDylan">
     <img alt="Gitlab icon" src="https://img.icons8.com/color/64/000000/gitlab.png"/>
