@@ -6,6 +6,10 @@
 
 <h2 align="center">Web 🌐 & AI 🧠 developer doing his best to learn and </br> master last technologies of the Web and Big data.</h2>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TavaresDylan&rank_icon=percentile&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&text_color=202225&title_color=202225&include_all_commits=true&icon_color=202225&ring_color=E02534&bg_color=65,E02534,FFDB4B" />
+</picture>
+
 <h3 align="center">Masteries</h3>
 
 <div align="center">
@@ -14,43 +18,27 @@
   <img alt="React Icon" src="https://img.icons8.com/plasticine/72/react.png"/>
   <img alt="Html Icon" src="https://img.icons8.com/color/64/000000/html-5.png"/>
   <img alt="CSS Icon" src="https://img.icons8.com/color/64/000000/css3.png"/>
+  <br/>
   <img alt="Javascript Icon" src="https://img.icons8.com/color/64/000000/javascript.png"/>
   <img alt="Docker Icon" src="https://img.icons8.com/color/64/000000/docker.png"/>
+  <img alt="Vuejs Icon" src="https://img.icons8.com/color/72/null/figma.png"/>
+  <img alt="Vuejs Icon" src="https://img.icons8.com/color/72/null/adobe-xd.png"/>
 </div>
-
-<div>
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=TavaresDylan&show_icons=true&theme=dark&count_private=true&hide_border=true&include_all_commits=true&bg_color=45,#F82704,#FCDA4A)"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=TavaresDylan&show_icons=true&count_private=true&hide_border=true&include_all_commits=true)"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-  </picture>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TavaresDylan&show_icons=true"/>
-</div>
-
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
 <h3 align="center">Actually learning</h3>
 
 <div align="center">
-  <img alt="Nodejs Icon" src="https://img.icons8.com/color/72/000000/nodejs.png"/>
-  <img alt="Golang Icon" src="https://img.icons8.com/color/72/000000/golang.png"/>
+  <img alt="Nodejs Icon" src="https://img.icons8.com/arcade/72/000000/laravel.png"/>
+  <img alt="Golang Icon" src="https://img.icons8.com/color/72/000000/nestjs.png"/>
 </div>
 
 <h3 align="center">Find me around the web</h3>
 
 <div align="center">
-  <a href="https://www/dt-developpement.fr">
+  <a href="https://dylantavares.fr">
     <img alt="Website icon" src="https://img.icons8.com/color/64/000000/internet--v2.png"/>
   </a>
-  <a href="https://www.instagram.com/dylan.03100/">
-    <img alt="Instagram icon" src="https://img.icons8.com/fluency/64/000000/instagram-new.png"/>
-  </a>
-  <a href="https://www/dt-developpement.fr">
+  <a href="https://gitlab.com/TavaresDylan">
     <img alt="Gitlab icon" src="https://img.icons8.com/color/64/000000/gitlab.png"/>
   </a>
 </div>
