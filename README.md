@@ -25,7 +25,7 @@
   <img alt="Vuejs Icon" src="https://img.icons8.com/color/72/null/adobe-xd.png"/>
 </div>
 
-<h3 align="center">Cuurently learning</h3>
+<h3 align="center">Curently learning</h3>
 
 <div align="center">
   <img alt="Nodejs Icon" src="https://img.icons8.com/arcade/72/000000/laravel.png"/>
