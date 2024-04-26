@@ -4,7 +4,7 @@
 
 <h1 align="center"> Hey 👋, I'm Dylan Tavares</h1>
 
-<h2 align="center">Web 🌐 & AI 🧠 developer doing his best to learn and </br> master last technologies of the Web and Big data.</h2>
+<p align="center">Welcome to my GitHub! I'm a passionate Web 🌐 & AI 🧠 developer dedicated to continuously expanding my knowledge and proficiency in the latest technologies of the Web and Big Data. With a commitment to learning and mastering cutting-edge tools and techniques, I strive to create innovative solutions and contribute to the ever-evolving landscape of technology. Join me on this exciting journey as we explore the possibilities of web development and artificial intelligence together! 🚀</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TavaresDylan&rank_icon=percentile&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&text_color=202225&title_color=202225&include_all_commits=true&icon_color=202225&ring_color=E02534&bg_color=65,E02534,FFDB4B" />
@@ -21,16 +21,19 @@
   <br/>
   <img alt="Javascript Icon" src="https://img.icons8.com/color/64/000000/javascript.png"/>
   <img alt="Docker Icon" src="https://img.icons8.com/color/64/000000/docker.png"/>
-  <img alt="Vuejs Icon" src="https://img.icons8.com/color/72/null/figma.png"/>
-  <img alt="Vuejs Icon" src="https://img.icons8.com/color/72/null/adobe-xd.png"/>
+  <img alt="Figma Icon" src="https://img.icons8.com/color/72/null/figma.png"/>
+  <img alt="Adobe XD Icon" src="https://img.icons8.com/color/72/null/adobe-xd.png"/>
+  <img alt="Git Icon" src="https://img.icons8.com/color/72/null/git.png"/>
 </div>
 
 <h3 align="center">Curently learning</h3>
 
 <div align="center">
-  <img alt="Nodejs Icon" src="https://img.icons8.com/arcade/72/000000/laravel.png"/>
-  <img alt="Golang Icon" src="https://img.icons8.com/color/72/000000/nestjs.png"/>
+  <img alt="Laravel Icon" src="https://img.icons8.com/arcade/72/000000/laravel.png"/>
+  <img alt="NestJs Icon" src="https://img.icons8.com/color/72/000000/nestjs.png"/>
+  <img height="72px" alt="Nx Icon" src="https://github.com/TavaresDylan/TavaresDylan/assets/48557132/a1d6721a-599e-4e0b-a7a7-6a06b3a43b2b"/>
 </div>
+
 
 <h3 align="center">Find me around the web</h3>
 
